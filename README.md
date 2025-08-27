@@ -29,7 +29,7 @@ It also provides a **visual breakdown** of finances using interactive charts.
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/BinaryBar/Personal-Budget-Analyzer/blob/b57f82c8f48671e672848abc8bc1af768432d008/Screenshot.png)  
 
 
 ---
@@ -37,7 +37,6 @@ It also provides a **visual breakdown** of finances using interactive charts.
 ## ⚡ How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/Personal-Budget-Analyzer.git
 
 👨‍💻 Built By
 
@@ -51,3 +50,4 @@ Sushmoy (BinaryBar) 🚀
 
 
 🚀 Built with ❤️ by **Sushmoy**
+
