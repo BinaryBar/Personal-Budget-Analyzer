@@ -24,7 +24,7 @@ It also provides a **visual breakdown** of finances using interactive charts.
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-username.github.io/Personal-Budget-Analyzer/) 
+👉 [Click here to try the app](https://binarybar.github.io/Personal-Budget-Analyzer/) 
  
 ---
 
@@ -48,5 +48,6 @@ Sushmoy (BinaryBar) 🚀
 🔗 [GitHub Profile](https://github.com/BinaryBar)
 
 ---
+
 
 🚀 Built with ❤️ by **Sushmoy**
